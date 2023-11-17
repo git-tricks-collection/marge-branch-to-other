@@ -2,11 +2,11 @@
 
 Simple action to copy branch into the other
 
-- Set you (sure) into start branch:
+- Make sure and set your _start_ branch:
 `$ git checkout branch_with_origins`
 
-- Go to final files branch:
+- Move you to _final_ files branch:
 `$ git checkout branch_to_update`
 
-- Copy from origins to update without lost origin:
+- Rewrite _final_ with _start_ without lost versions:
 `$ git merge branch_to_update`
