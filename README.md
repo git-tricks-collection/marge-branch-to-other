@@ -2,7 +2,7 @@
 
 Simple action to copy branch into the other
 
-- Make sure and set your _start_ branch:
+- Make sure to be in your _start_ branch:
 `$ git checkout branch_with_origins`
 
 - Move you to _final_ files branch:
