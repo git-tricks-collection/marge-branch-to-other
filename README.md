@@ -9,4 +9,4 @@ Simple action to copy branch into the other
 `$ git checkout branch_to_update`
 
 - Rewrite _final_ with _start_ without lost versions:
-`$ git merge branch_to_update`
+`$ git merge branch_with_origins`
